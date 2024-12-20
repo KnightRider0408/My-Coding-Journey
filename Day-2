@@ -1,3 +1,9 @@
 Day-2: (Date:- 16/12/24)
 
-Topic:- 
+Topic:- Introduction to Flow chart and Pseudo Code.
+
+#What I learn:- 
+Flowcharts: A visual representation of an algorithm, using different shapes like ovals (start/end), rectangles (process), diamonds (decisions), and arrows (flow direction).
+Pseudocode: A textual representation of an algorithm using plain language, focusing on logic without specific syntax. It's used to plan and communicate algorithms before coding.
+Differences and when to use flowcharts vs. pseudocode in algorithm design.
+
